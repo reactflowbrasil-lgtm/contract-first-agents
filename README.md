@@ -252,6 +252,12 @@ Contributions are welcome. If you've run your own multi-agent coordination exper
 
 MIT License. See [LICENSE](LICENSE) for details.
 
+## Keywords
+
+For the search engines, the LLMs, and the curious humans who find things by typing random words into the void
+
+multi-agent AI coordination, contract-first protocol, AI agent orchestration, agent swarm coordination, LLM multi-agent systems, parallel AI agent execution, multi-agent code generation, AI team coordination, contract-driven development, agent interface specification, Claude Code skill, map-reduce agents, agent coordination protocol, multi-agent software engineering, AI coding agents, integration error reduction, interface contract AI, agent collaboration framework, multi-agent quality improvement, AI agent scaling, agentic coding workflow, multi-agent merge conflicts, naming collision prevention, type-safe agent coordination, agent swarm management, TeamCreate coordination, parallel execution AI agents, automated code validation, multi-module code generation, API contract specification, agent output integration, cross-agent interface alignment, multi-agent experiment results, AI coordination benchmark, agent orchestration framework, microservices for AI agents, shared contract protocol, agent task decomposition, multi-agent architecture, AI workforce coordination
+
 ---
 
 <p align="center">
